@@ -1,0 +1,41 @@
+body{ border-style: solid;
+          border-color: #ff914d;
+          border-width:20px;
+          border-radius:15px;
+    }
+body{background-image: url(book.png);
+      background-repeat:no-repeat;
+      background-position:center;
+      background-size:20%;
+}
+h1{font-size:50px;
+text-align:center;
+color:white}
+h2{font-size:40px;}
+#quote{text-align:center}
+.line{
+      border-bottom:5px dotted #000000;
+      display:block;}
+.animation{display:inline-block;
+      border-style:solid;
+border-color:#000000;
+position:relative;
+left:50%;
+transform: translateX(-50%);
+font-size:40px
+}
+#theend{text-align:center;
+font-size: 35px;
+}
+.line1{
+      border-bottom:2px solid #000000;
+      display:block;}
+.line2{
+      border-bottom:2px solid #000000;
+      display:block;}
+.line3{
+      border-bottom:2px solid #000000;
+      display:block;}
+.line4{
+      border-bottom:2px solid #000000;
+      display:block;}
